@@ -1,4 +1,3 @@
-
 public class Task {
     // task class
     protected String description;
