@@ -171,7 +171,6 @@ public class Justin {
                                 td.markAsDone();
                             }
                             tasks.set(i, td); // insert into list
-                            // formatting
                             printLineBreaker();
                             System.out.println("Got it. I've added this task:");
                             System.out.println(" " + td.toString());
