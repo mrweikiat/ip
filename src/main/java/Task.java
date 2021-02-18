@@ -1,6 +1,6 @@
-// Task class
 
 public class Task {
+    // task class
     protected String description;
     protected boolean isDone;
 
